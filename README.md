@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi I'm Alexandre Demode 👋
 
-<!--
-**Alex-D/Alex-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a freelance developer, mostly working on front-end and UI-related stuff.
 
-Here are some ideas to get you started:
+Things I'm working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Trumbowyg](https://alex-d.github.io/trumbowyg), a lightweight HTML WYSIWYG editor (8kB)
+- [Monitoror](https://monitoror.com), a unified monitoring wallboard
+- [Column View](https://column-view.alex-d.fr)<sup>WIP</sup>, a tool to get an overview of a webpage for mobile
+
+-----
+
+I'm also a music composer. Feel free to [listen to my music on SoundCloud](https://soundcloud.com/alexandre-demode/).
