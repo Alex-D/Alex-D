@@ -4,7 +4,7 @@
 
 Things I'm working on:
 
-- [Trumbowyg](https://alex-d.github.io/trumbowyg) — A lightweight HTML WYSIWYG editor (8kB)
+- [Trumbowyg](https://alex-d.github.io/Trumbowyg/) — A lightweight HTML WYSIWYG editor (8kB)
 - [Monitoror](https://monitoror.com) — Unified monitoring wallboard
 - [Column View](https://column-view.com) — Display multiple web pages simultaneously
 
