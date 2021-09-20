@@ -12,4 +12,4 @@ Things I'm working on:
 
 #### I'm also a music composer 🎹
 
-Feel free to [listen to my music on SoundCloud](https://soundcloud.com/alexandre-demode/).
+Feel free to [listen to my music on SoundCloud](https://soundcloud.com/alexandredemode/).
