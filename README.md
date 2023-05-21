@@ -4,12 +4,13 @@
 
 Things I'm working on:
 
-- [Trumbowyg](https://alex-d.github.io/Trumbowyg/) — A lightweight HTML WYSIWYG editor (8kB)
+- [Trumbowyg](https://alex-d.github.io/Trumbowyg/) — A lightweight HTML WYSIWYG editor
+- [check-disk-space](https://www.npmjs.com/package/check-disk-space) — Light multi-platform disk space checker without third party for Node.js
 - [Monitoror](https://monitoror.com) — Unified monitoring wallboard
 - [Column View](https://column-view.com) — Display multiple web pages simultaneously
 
 -----
 
-#### I'm also a music composer 🎹
+#### I'm also a Music Composer 🎹
 
 Feel free to [listen to my music on SoundCloud](https://soundcloud.com/alexandredemode/).
